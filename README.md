@@ -3,5 +3,11 @@
 
 - 🌱 I’m currently learning all progamming
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohnuris&theme=radical)](https://github.com/mohnuris)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohnuris&show_icons=true&theme=radical)
+
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/mohnuris">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohnuris&theme=algolia&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/mohnuris">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafet17&theme=algolia&show_icons=true&layout=compact&langs_count=8" />
+</a>
